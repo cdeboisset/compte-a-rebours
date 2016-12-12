@@ -20,12 +20,17 @@ background-repeat: no-repeat;
 #Compte{
   text-align: center;
   font-weight: bold;
-  color: white;
+  color: black;
   font-size: 40px;
   font-family: 'open sans' 
 }
 
 #block-compte-rebours{ padding-right: auto;
 						padding-left: auto;
-						text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;}
+						padding-top: 5%;
+						text-align: center;}
 
+p{ font-family: 'Pacifico', cursive;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 3%; }
