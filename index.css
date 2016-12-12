@@ -11,7 +11,7 @@ background-repeat: no-repeat;
 		text-align: center; 
 		font font-weight: bold;
 		font-family: 'Pacifico', cursive;
-		text-shadow: 10%;
+		text-shadow: 2px 2px 8px #9E9696;
 		}
 
 
@@ -27,6 +27,5 @@ background-repeat: no-repeat;
 
 #block-compte-rebours{ padding-right: auto;
 						padding-left: auto;
-						padding-top: 25%; 
 						text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;}
 
