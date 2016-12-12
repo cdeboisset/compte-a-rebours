@@ -1,0 +1,32 @@
+body {
+color:black;
+
+background-image:url(wait.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+#titre{ font-size: 100px;
+		color: black;
+		text-align: center; 
+		font font-weight: bold;
+		font-family: 'Pacifico', cursive;
+		text-shadow: 10%;
+		}
+
+
+
+
+#Compte{
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-size: 40px;
+  font-family: 'open sans' 
+}
+
+#block-compte-rebours{ padding-right: auto;
+						padding-left: auto;
+						padding-top: 25%; 
+						text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;}
+
